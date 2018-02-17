@@ -5,12 +5,11 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  return  new Array(element, array);
+  return  new Array(element, 1);
   //couldn't figure it out. was stuck for 3 days.
 }
 
 
 function accessElementInArray(array, index) {
-  [1,2,3];
-  return array[3];
+  console.log(accessElementInArray[3]);
 }
