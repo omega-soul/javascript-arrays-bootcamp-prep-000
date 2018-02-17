@@ -6,10 +6,5 @@ function addElementToBeginningOfArray(array, element) {
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
   return  new Array(element, 1);
-  //couldn't figure it out. was stuck for 3 days.
 }
 
-
-function accessElementInArray(array, index) {
-  accessElementInArray[3];
-}
