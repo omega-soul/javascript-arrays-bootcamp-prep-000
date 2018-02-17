@@ -8,3 +8,4 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return  new Array(element, 1);
 }
 
+destructivelyAddElementToBeginningOfArray.unshift(element);
