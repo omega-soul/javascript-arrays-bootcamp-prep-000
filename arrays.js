@@ -9,3 +9,4 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   //couldn't figure it out. was stuck for 3 days.
 }
 
+function accessElementInArray()
